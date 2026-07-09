@@ -1,0 +1,10 @@
+{
+   "mappings": [
+      "/content/ddp-sebastian-lopez/:/",
+      "/content/ddp-sebastian-lopez/configuration:/.helix/config.json",
+      "/content/ddp-sebastian-lopez/metadata:/metadata.json"
+  ],
+  "includes": [
+      "/content/ddp-sebastian-lopez/"
+  ]
+}
