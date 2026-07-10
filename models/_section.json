@@ -33,6 +33,14 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            },
+            {
+              "name": "Fondo Verde",
+              "value": "fondo-verde"
+            },
+            {
+              "name": "Fondo Azul",
+              "value": "fondo-azul"
             }
           ]
         }
