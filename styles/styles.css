@@ -323,3 +323,12 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+/* Estilos para secciones personalizadas */
+.section.fondo-verde {
+    background-color: #c8f4cc;
+    padding: 2rem;
+}
+.section.fondo-azul {
+    background-color: #aadafd;
+    padding: 2rem;
+}
